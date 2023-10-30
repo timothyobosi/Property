@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209621500221",
+    "project_id": "property-e3f3d",
+    "storage_bucket": "property-e3f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209621500221:android:f49aa8ce509e0d1b530554",
+        "android_client_info": {
+          "package_name": "com.example.property"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9NJ7MLQ0SnngaqImNO7MsmE882UOCro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

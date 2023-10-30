@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Property</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirmpassword_hint">Confirm Password</string>
+    <string name="btnSignup">Sign Up</string>
+</resources>
